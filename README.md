@@ -20,5 +20,5 @@ Modular Design:
     You can add more rounds by editing one round file- add a unique range, and specfy the color. Also make sure to include it on you main.py list of rounds.
 
 Requirements:
->>Python 3.x
->>colorama library (for colored output)
+    Python 3.x
+    colorama library (for colored output)
